@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sat Apr 02 11:21:13 CEST 2022","Sat Apr 02 11:21:13 CEST 2022","4","Booking","TC_001","tests.BookingTest","tests.BookingTest","tearDown","tearDown",""
+"passed","Sat Apr 02 11:02:06 CEST 2022","Sat Apr 02 11:02:11 CEST 2022","4520","Booking","TC_002","tests.BookingTest","tests.BookingTest","booking","Name of the test","Some description"
+"passed","Sun Apr 03 02:03:59 CEST 2022","Sun Apr 03 02:04:05 CEST 2022","6009","Booking","TC_001","tests.BookingTest","tests.BookingTest","booking","Name of the test","Some description"

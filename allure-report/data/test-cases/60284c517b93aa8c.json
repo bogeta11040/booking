@@ -1,0 +1,138 @@
+{
+  "uid" : "60284c517b93aa8c",
+  "name" : "Name of the test",
+  "fullName" : "tests.BookingTest.booking",
+  "historyId" : "1e25c15f65f5d1d47c02e4b152e9dafd",
+  "time" : {
+    "start" : 1648890946878,
+    "stop" : 1648890959109,
+    "duration" : 12231
+  },
+  "description" : "Some description",
+  "descriptionHtml" : "<p>Some description</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init",
+    "time" : {
+      "start" : 1648890936170,
+      "stop" : 1648890946313,
+      "duration" : 10143
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1648890959120,
+      "stop" : 1648890959341,
+      "duration" : 221
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "53ddc4fb2b76fefc",
+      "name" : "OnFailure",
+      "source" : "53ddc4fb2b76fefc.png",
+      "type" : "image/png",
+      "size" : 33046
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.BookingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.BookingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "booking"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Booking"
+  }, {
+    "name" : "suite",
+    "value" : "TC_001"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.BookingTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DASQTFU"
+  }, {
+    "name" : "thread",
+    "value" : "227976@DESKTOP-DASQTFU.TestNG-tests-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "EP001"
+  }, {
+    "name" : "story",
+    "value" : "US001"
+  }, {
+    "name" : "feature",
+    "value" : "FE001"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "BROWSER",
+    "value" : "CHROME"
+  }, {
+    "name" : "BROWSER_VERSION",
+    "value" : "99"
+  }, {
+    "name" : "ENV",
+    "value" : "QA"
+  }, {
+    "name" : "TC_ID",
+    "value" : "TC_001"
+  }, {
+    "name" : "WAIT",
+    "value" : "30"
+  } ],
+  "links" : [ {
+    "name" : "TEST",
+    "type" : "custom"
+  }, {
+    "name" : "test-1",
+    "url" : "https://domen.jira.com/test-1",
+    "type" : "tms"
+  }, {
+    "name" : "Issue",
+    "url" : "https://domen.jira.com/Issue",
+    "type" : "issue"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "60284c517b93aa8c.json",
+  "parameterValues" : [ "CHROME", "99", "QA", "TC_001", "30" ]
+}

@@ -1,0 +1,31 @@
+[ {
+  "uid" : "9081daaa2c0fc8d8",
+  "name" : "tearDown",
+  "time" : {
+    "start" : 1648891273248,
+    "stop" : 1648891273252,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b652e83fe7621455",
+  "name" : "Name of the test",
+  "time" : {
+    "start" : 1648890126711,
+    "stop" : 1648890131231,
+    "duration" : 4520
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "77396c74fc3840f2",
+  "name" : "Name of the test",
+  "time" : {
+    "start" : 1648944239180,
+    "stop" : 1648944245189,
+    "duration" : 6009
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

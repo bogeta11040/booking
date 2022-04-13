@@ -1,0 +1,64 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Booking",
+    "children" : [ {
+      "name" : "TC_002",
+      "children" : [ {
+        "name" : "tests.BookingTest",
+        "children" : [ {
+          "name" : "Name of the test",
+          "uid" : "b652e83fe7621455",
+          "parentUid" : "89b8883a0c3a738769104535969f49c1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1648890126711,
+            "stop" : 1648890131231,
+            "duration" : 4520
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "CHROME", "99", "QA", "TC_002", "30" ]
+        } ],
+        "uid" : "89b8883a0c3a738769104535969f49c1"
+      } ],
+      "uid" : "b1750527e06034275d70cf42d750d022"
+    }, {
+      "name" : "TC_001",
+      "children" : [ {
+        "name" : "tests.BookingTest",
+        "children" : [ {
+          "name" : "tearDown",
+          "uid" : "9081daaa2c0fc8d8",
+          "parentUid" : "e9c57c0d7f98ec91c6f12aef26c2629a",
+          "status" : "broken",
+          "time" : {
+            "start" : 1648891273248,
+            "stop" : 1648891273252,
+            "duration" : 4
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "CHROME", "99", "QA", "TC_001", "30" ]
+        }, {
+          "name" : "Name of the test",
+          "uid" : "77396c74fc3840f2",
+          "parentUid" : "e9c57c0d7f98ec91c6f12aef26c2629a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1648944239180,
+            "stop" : 1648944245189,
+            "duration" : 6009
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "CHROME", "99", "QA", "TC_001", "30" ]
+        } ],
+        "uid" : "e9c57c0d7f98ec91c6f12aef26c2629a"
+      } ],
+      "uid" : "7e946ab880a8b6f62b35ce2325091c82"
+    } ],
+    "uid" : "d3c8f26dbf11b743c120a6034d24302e"
+  } ]
+}

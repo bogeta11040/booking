@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=100.0.4896.60)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-DASQTFU', ip: '192.168.43.47', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\aleks\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62281}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 56f3364e60ae63a3237330d32606cf73",
+      "children" : [ {
+        "name" : "tearDown",
+        "uid" : "9081daaa2c0fc8d8",
+        "parentUid" : "02f3a19084014997ea03eb9a9578dbb7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1648891273248,
+          "stop" : 1648891273252,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "99", "QA", "TC_001", "30" ]
+      } ],
+      "uid" : "02f3a19084014997ea03eb9a9578dbb7"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

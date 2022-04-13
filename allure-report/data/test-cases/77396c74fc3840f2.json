@@ -1,0 +1,247 @@
+{
+  "uid" : "77396c74fc3840f2",
+  "name" : "Name of the test",
+  "fullName" : "tests.BookingTest.booking",
+  "historyId" : "1e25c15f65f5d1d47c02e4b152e9dafd",
+  "time" : {
+    "start" : 1648944239180,
+    "stop" : 1648944245189,
+    "duration" : 6009
+  },
+  "description" : "Some description",
+  "descriptionHtml" : "<p>Some description</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init",
+    "time" : {
+      "start" : 1648944211551,
+      "stop" : 1648944238068,
+      "duration" : 26517
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1648944245209,
+      "stop" : 1648944245653,
+      "duration" : 444
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d63c1f6c41dc385",
+      "name" : "OnFailure",
+      "source" : "d63c1f6c41dc385.png",
+      "type" : "image/png",
+      "size" : 57815
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.BookingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.BookingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "booking"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Booking"
+  }, {
+    "name" : "suite",
+    "value" : "TC_001"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.BookingTest"
+  }, {
+    "name" : "host",
+    "value" : "IGOR-KOMPJUTER"
+  }, {
+    "name" : "thread",
+    "value" : "26564@IGOR-KOMPJUTER.TestNG-tests-1(11)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "EP001"
+  }, {
+    "name" : "story",
+    "value" : "US001"
+  }, {
+    "name" : "feature",
+    "value" : "FE001"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "BROWSER",
+    "value" : "CHROME"
+  }, {
+    "name" : "BROWSER_VERSION",
+    "value" : "99"
+  }, {
+    "name" : "ENV",
+    "value" : "QA"
+  }, {
+    "name" : "TC_ID",
+    "value" : "TC_001"
+  }, {
+    "name" : "WAIT",
+    "value" : "30"
+  } ],
+  "links" : [ {
+    "name" : "TEST",
+    "type" : "custom"
+  }, {
+    "name" : "test-1",
+    "url" : "https://domen.jira.com/test-1",
+    "type" : "tms"
+  }, {
+    "name" : "Issue",
+    "url" : "https://domen.jira.com/Issue",
+    "type" : "issue"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "2432b4f585c31c81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648892089044,
+        "stop" : 1648892092520,
+        "duration" : 3476
+      }
+    }, {
+      "uid" : "ae4e69ca2ab280ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648891259748,
+        "stop" : 1648891273188,
+        "duration" : 13440
+      }
+    }, {
+      "uid" : "a4ac549244445c02",
+      "status" : "broken",
+      "statusDetails" : "Index: 11, Size: 11",
+      "time" : {
+        "start" : 1648891112410,
+        "stop" : 1648891125921,
+        "duration" : 13511
+      }
+    }, {
+      "uid" : "dff7af3a5f30524e",
+      "status" : "broken",
+      "statusDetails" : "Index: 6, Size: 6",
+      "time" : {
+        "start" : 1648891025070,
+        "stop" : 1648891037480,
+        "duration" : 12410
+      }
+    }, {
+      "uid" : "60284c517b93aa8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648890946878,
+        "stop" : 1648890959109,
+        "duration" : 12231
+      }
+    }, {
+      "uid" : "6131c5b77ec6ab44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648890867948,
+        "stop" : 1648890880006,
+        "duration" : 12058
+      }
+    }, {
+      "uid" : "d24474bc26624018",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648890751258,
+        "stop" : 1648890756449,
+        "duration" : 5191
+      }
+    }, {
+      "uid" : "57819f7d32ca0404",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=100.0.4896.60)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-DASQTFU', ip: '192.168.43.47', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.60, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\aleks\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61694}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e158cf230584dca7821c98549a94a4c5\n*** Element info: {Using=css selector, value=[name=\"get_the_app\"]}",
+      "time" : {
+        "start" : 1648890693408,
+        "stop" : 1648890698837,
+        "duration" : 5429
+      }
+    }, {
+      "uid" : "cf54d6b4921a6cfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648890640836,
+        "stop" : 1648890646014,
+        "duration" : 5178
+      }
+    }, {
+      "uid" : "87b63690baf1502f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648890452845,
+        "stop" : 1648890457879,
+        "duration" : 5034
+      }
+    }, {
+      "uid" : "fc6d774381c62aec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648890180777,
+        "stop" : 1648890185686,
+        "duration" : 4909
+      }
+    }, {
+      "uid" : "46330e38ba79daa9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648890125835,
+        "stop" : 1648890130481,
+        "duration" : 4646
+      }
+    }, {
+      "uid" : "fc2d9ccb739806c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648890093911,
+        "stop" : 1648890098216,
+        "duration" : 4305
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "77396c74fc3840f2.json",
+  "parameterValues" : [ "CHROME", "99", "QA", "TC_001", "30" ]
+}
